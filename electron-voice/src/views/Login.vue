@@ -1,11 +1,12 @@
 <template>
   <div class="login">
-    <b-jumbotron  header="Vue.js Chat"
-                  lead="Powered by Chatkit SDK and Bootstrap-Vue"
+    <b-jumbotron  header="SpaceCRAFT VR Voice Launcher"
+                  lead="Powered by Vivox and Electron"
                   bg-variant="info"
+                  style="background-image: url(https://wallpapercave.com/wp/kLRFyFa.jpg); background-size: 100%;"
                   text-variant="white">
       <p>For more information visit website</p>
-      <b-btn target="_blank" href="https://pusher.com/chatkit">More Info</b-btn>
+      <b-btn target="_blank" href="http://vivox.com/features">More Info</b-btn>
     </b-jumbotron>
     <b-container>
       <b-row>
