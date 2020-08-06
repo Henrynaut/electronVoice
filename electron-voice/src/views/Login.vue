@@ -1,6 +1,6 @@
 <template>
   <div class="login">
-    <b-jumbotron  header="SpaceCRAFT VR Voice Launcher"
+    <b-jumbotron  header="SpaceCRAFT Voice Launcher"
                   lead="Powered by Vivox and Electron"
                   bg-variant="info"
                   style="background-image: url(https://wallpapercave.com/wp/kLRFyFa.jpg); background-size: 100%;"
