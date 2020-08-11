@@ -3,7 +3,8 @@
 //Connect user to vivox server
 async function connectUser(userId){
 
-currentUser = "Neil";
+//Call vivoxLogin.cpp    
+currentUser = userId;
 return currentUser;
 };
 
